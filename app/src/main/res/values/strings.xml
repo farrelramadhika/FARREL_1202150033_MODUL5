@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FARREL_1202150033_MODUL5</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_menu">MenuActivity</string>
+</resources>
